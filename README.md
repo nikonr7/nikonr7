@@ -1,7 +1,6 @@
 
 - STARTUPS
 - ENTREPRENEUR  
-- telegram @NIKON_R
 
 <!---
 nikonr7/nikonr7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
