@@ -1,4 +1,4 @@
-- I’m @nikonr7
+
 - STARTUPS
 - ENTREPRENEUR  
 - telegram @NIKON_R
